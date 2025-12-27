@@ -225,7 +225,7 @@
         "all",
         "all-auto"
       ],
-      "default": "Proxy"
+      "default": "sg-auto"
     },
     {
       "tag": "openai",
